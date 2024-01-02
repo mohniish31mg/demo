@@ -1,2 +1,2 @@
 # demo
-This is demo repo  while learning Git Hub
+This is demo repo  while learning Git Hub.
